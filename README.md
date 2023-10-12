@@ -13,7 +13,9 @@ I'm a 26-year-old software engineer with a passion for programming and a love fo
 * 🌟 Fun Fact
 In my free time, I enjoy watching NBA matches.
 
-🌟 Thanks for stopping by my GitHub profile, and I look forward to connecting with you!
+
+## Thanks for stopping by my GitHub profile, and I look forward to connecting with you! 
+
 
 
 ### Skills
