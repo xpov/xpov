@@ -1,16 +1,19 @@
-👋Hello! I'm Ilya Filippov
+👋Hello! I'm Ilia Filippov
 =====================================================================================================================================
 
 👨‍💻 Software Engineer |  Programming Enthusiast
 -----------------
-📚 About Me
 I'm a 26-year-old software engineer with a passion for programming and a love for solving complex problems. I enjoy exploring the latest trends in technology and am always eager to learn new things. Whether it's developing web applications, diving into data analysis, or crafting efficient algorithms, I find immense joy in creating elegant and functional solutions.
 
 * 🌍  I'm based in Toronto
 * 🖥️  See my portfolio at [iliafilippov.com](http://iliafilippov.com)
 * ✉️  You can contact me at [ilia.filippov.ca@gmail.com](mailto:ilia.filippov.ca@gmail.com)
 * 🧠  I'm learning React
-* ⚡  In my free time, I enjoy watching NBA matches. Thanks for stopping by my GitHub profile, and I look forward to connecting with you!
+* 🌟 Fun Fact
+In my free time, I enjoy watching NBA matches.
+
+Thanks for stopping by my GitHub profile, and I look forward to connecting with you!
+
 
 ### Skills
 
