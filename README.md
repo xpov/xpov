@@ -1,9 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ilia Filippov
+👋Hello! I'm Ilya Filippov
 =====================================================================================================================================
 
-Fronted Developer
+👨‍💻 Software Engineer |  Programming Enthusiast
 -----------------
-
+📚 About Me
 I'm a 26-year-old software engineer with a passion for programming and a love for solving complex problems. I enjoy exploring the latest trends in technology and am always eager to learn new things. Whether it's developing web applications, diving into data analysis, or crafting efficient algorithms, I find immense joy in creating elegant and functional solutions.
 
 * 🌍  I'm based in Toronto
