@@ -6,7 +6,6 @@
 I'm a 26-year-old software engineer with a passion for programming and a love for solving complex problems. I enjoy exploring the latest trends in technology and am always eager to learn new things. Whether it's developing web applications, diving into data analysis, or crafting efficient algorithms, I find immense joy in creating elegant and functional solutions.
 
 * 🌍  I'm based in Toronto
-* 🖥️  See my portfolio at [iliafilippov.com](http://iliafilippov.com)
 * ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-xpov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/promanier) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ilia.filippov.ca@gmail.com)
 
 * 🧠  I'm currently learning React/Angular
