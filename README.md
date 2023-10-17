@@ -8,7 +8,7 @@ I'm a 26-year-old software engineer with a passion for programming and a love fo
 * 🌍  I'm based in Toronto
 * ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-xpov-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/promanier) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ilia.filippov.ca@gmail.com)
 
-* 🧠  I'm currently learning React/Angular
+* 🧠  I'm currently learning React/Redux
 * 🌟 Fun Fact
 In my free time, I enjoy watching NBA matches.
 
